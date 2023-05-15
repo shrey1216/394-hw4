@@ -133,3 +133,5 @@ chisq.test(income_satisfaction)
 # From the test, we see that the p-value is 0.214. This p-value is larger than 0.05, so 
 # we fail to reject the null hypothesis. This means that we do not have sufficient evidence 
 # to say that there is an association between income and job satisfaction.
+
+
