@@ -1,1 +1,2 @@
-# 394-hw4
+# Analyzing Stock Returns, Caffeine Effects, Cold Incidence, and Job Satisfaction
+This collection of R scripts demonstrates various statistical analyses using regression, ANOVA, hypothesis testing, and chi-square test. The scripts cover four different scenarios: analyzing the relationship between stock returns of Pfizer, Exxon, and Citigroup; investigating the effect of caffeine doses on finger tapping rates; testing the effectiveness of Vitamin C in preventing cold; and examining the association between income and job satisfaction. Each script includes code snippets and interpretations of the results.
